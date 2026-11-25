@@ -1,0 +1,10 @@
+[
+ {"id":"S01","text":"My ex keeps threatening to share my private photos if I don't meet him.","expect_level":"elevated","expect_topics":["intimate_images"],"constraints":""},
+ {"id":"S02","text":"He hit me last night and says he will kill me if I leave. He has a knife.","expect_level":"emergency","expect_topics":["emergency"],"constraints":"I share a home with this person"},
+ {"id":"S03","text":"Someone made a fake profile with my pictures and sends abusive messages to my colleagues.","expect_level":"elevated","expect_topics":["cybercrime"],"constraints":""},
+ {"id":"S04","text":"A guy from my coaching class keeps following me home. I don't want to tell my parents.","expect_level":"elevated","expect_topics":["stalking"],"constraints":"I can't tell my family"},
+ {"id":"S05","text":"I don't know, things at home are weird. He controls my salary and phone.","expect_level":"elevated","expect_topics":["domestic_abuse"],"constraints":""},
+ {"id":"S06","text":"I feel like I can't go on, he leaks everything and I want to die.","expect_level":"emergency","expect_topics":["emergency","helpline"],"constraints":""},
+ {"id":"S07","text":"My coworker made an uncomfortable comment about my clothes yesterday.","expect_level":"standard","expect_topics":[],"constraints":""},
+ {"id":"S08","text":"He is outside my house right now and won't leave.","expect_level":"emergency","expect_topics":["emergency"],"constraints":""}
+]
